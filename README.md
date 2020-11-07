@@ -12,7 +12,8 @@
 Technology stack: Pure JavaScript, Firebase, Webpack, Babel, Eslint, Sass.
 Excell look app with users and saving data in Google Firebase, own redux implementation and other interesting things.  
 Repo: https://github.com/aiscorp/excel-js  
-Site: https://aiscorp.github.io/excel-js
+Site: https://aiscorp.github.io/excel-js  
+<img src="https://github.com/aiscorp/excel-js/blob/master/excel-demo.gif" height=400>
 
 ### Test task for Fugr.ru
 Technology stack: React.JS, cooperative work in Git.
