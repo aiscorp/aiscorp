@@ -37,7 +37,7 @@ Site: https://sunbro-marko.github.io/fugr-ru-react-test/
 <img src="https://github.com/SunBro-Marko/fugr-ru-react-test/blob/master/fugr-ru-demo.gif" height=300>
 
 ### 🚿 3. Servise for DIY water meters (in working)
-***Technology stack: `TypeScript, Node.JS, React.JS, MongoDB, NodeMCU, OAuth Google`***   
+***Technology stack: `TypeScript, Node.JS, React.JS, MongoDB, NodeMCU, OAuth Google, GraphQl`***   
 This project is under development. The first versions of the water measurement device and the server part are finished. Work on the React app is in progress.  
 In this project, it is planned to work out React Hooks, get experience of interaction between the server, device, and React application.  
 - Hardware made on NodeMcu with LUA program code. Programming on this device is partly similar to Node.Js.  
