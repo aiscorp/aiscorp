@@ -29,7 +29,7 @@ Site: https://aiscorp.github.io/excel-js
 ### 📘 2. Test task for Fugr.ru
 ***Technology stack: `React.JS`, cooperative work in `Git`, `Bootstrap`, `React router`***  
 It's test task for frontend React position.  
-The task is to create a table component that receives a large or small set of data as input. The table must have a search, sort, and add a new element. The task is also designed in the form of several pages. Bootstrap is used for styles. 
+Task: create a table component that receives a large or small set of data as input. The table must have a search, sort, and add a new element. The task is also designed in the form of several pages. Bootstrap is used for styles. 
 
 Repo: https://github.com/SunBro-Marko/fugr-ru-react-test  
 Site: https://sunbro-marko.github.io/fugr-ru-react-test/  
@@ -47,8 +47,19 @@ In this project, it is planned to work out React Hooks, get experience of intera
 Repo: https://github.com/aiscorp/water-meter-iot  
 Site: https://aiscorp.github.io/water-meter-iot
 
-<img src="https://github.com/aiscorp/water-meter-iot/blob/master/nodemcu/circuit/sketch.png" height=300>
+<img src="https://github.com/aiscorp/water-meter-iot/blob/master/image.gif?raw=true" height=300>
 
+### ✈ 4. Test app for Gridnine systems
+***Technology stack: `React.JS, Redux`***  
+It's test task for frontend React position.  
+Task: design and render the flight search results page. The page should contain flight cards, and a filter block
+. Filtering and sorting should not cause the page to reload. Filters should be based on input data. 
+Source data: mock file with a list of flights, layout with filter and sorting blocks. 
+
+Repo: https://github.com/aiscorp/gridnine-systems-test  
+Site: https://aiscorp.github.io/gridnine-systems-test
+
+<img src="https://github.com/aiscorp/gridnine-systems-test/blob/master/image.gif?raw=true" height=300>
 
 ## Below are statistics for my repositories:  
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiscorp&layout=compact&hide=html" height=170 alt="aiscorp" /></p>
