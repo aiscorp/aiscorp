@@ -42,7 +42,8 @@ This project is under development. The first versions of the water measurement d
 In this project, it is planned to work out React Hooks, get experience of interaction between the server, device, and React application.  
 - Hardware made on NodeMcu with LUA program code. Programming on this device is partly similar to Node.Js.  
 - The API server runs on the Node.js with Express and MongoDb. All applications run on the Raspberry Pi.  
-- Frontend made on React.js with TypeScript, Hooks, Redux and React Router. Google OAuth is used for server authentication. GraphQL is used in About page with connection to GitHub stats. 
+- Frontend made on React.js with TypeScript, Hooks, Redux and React Router. Google OAuth is used for server authentication. GraphQL is used in About page with connection to GitHub stats.  
+***GraphQL part (info pages doesn't work om Git Hub Pages, please download and use your secrets to work with GitHub GraphQL stats)***  
 
 Repo: https://github.com/aiscorp/water-meter-iot  
 Site: https://aiscorp.github.io/water-meter-iot
@@ -60,6 +61,18 @@ Repo: https://github.com/aiscorp/gridnine-systems-test
 Site: https://aiscorp.github.io/gridnine-systems-test
 
 <img src="https://github.com/aiscorp/gridnine-systems-test/blob/master/image.gif?raw=true" height=300>
+
+### 📗 5. Task app for Vision veb   
+***Technology stack: `React.JS, React Router, JWT, AXIOS`*** 
+Create an application with a router, JWT authorization, and axios with an additional middleware.   
+Provide private routing with redirection to the authorization page, if the user is authorized to display information about it.  
+***The server API works over http and becouse of that GH pages doesn't work properly.***
+
+Repo: https://github.com/aiscorp/vision-web-test   
+Site: https://aiscorp.github.io/vision-web-test 
+
+<img src="https://github.com/aiscorp/vision-web-test/blob/master/image.gif?raw=true" height=400>
+
 
 ## Below are statistics for my repositories:  
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiscorp&layout=compact&hide=html" height=170 alt="aiscorp" /></p>
