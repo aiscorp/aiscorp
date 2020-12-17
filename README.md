@@ -73,6 +73,23 @@ Site: https://aiscorp.github.io/vision-web-test
 
 <img src="https://github.com/aiscorp/vision-web-test/blob/master/image.gif?raw=true" height=400>
 
+### 📗 6. Todo list on VUE.js  
+***Technology stack: `VUE.js`***   
+Create an todo list with adding and deletting items   
+
+Repo: https://github.com/aiscorp/vue-todo-list  
+Site: https://aiscorp.github.io/vue-todo-list  
+
+<img src="https://github.com/aiscorp/vue-todo-list/blob/master/image.gif?raw=true" height=400>
+
+### 📗 7. Shop on NUXT.js 
+***Technology stack: `Nuxt.js`***   
+Create full functional shop on NUXT.js    
+ 
+Repo: https://github.com/aiscorp/nuxt-shop 
+Site: https://aiscorp.github.io/nuxt-shop
+
+<img src="https://github.com/aiscorp/nuxt-shop/blob/master/image.gif?raw=true" height=400>
 
 ## Below are statistics for my repositories:  
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiscorp&layout=compact&hide=html" height=170 alt="aiscorp" /></p>
