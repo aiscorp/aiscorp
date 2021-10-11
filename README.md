@@ -1,7 +1,9 @@
 <h2 align="center">Ivan Alenin - Junior Frontend Developer (Javascript, React) <img src="https://komarev.com/ghpvc/?username=aiscorp" alt="aiscorp" /> </h2>
 
+**INFO: This portfolio has been deprecated since early 2021 **
+
 **👋Hi!**  
-I'm a beginning ***frontend developer***, this's my portfolio Github repositories.  
+I'm a ***frontend developer***, this's my portfolio Github repositories.  
 I'm coding and improving in `JavaScript, React.js` and in several other technologies like `Html, Css, REST, Git, Babel, Node.Js, Express, MongoDb`
  
  <p align="left">   
